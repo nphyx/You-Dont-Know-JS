@@ -1,6 +1,6 @@
 # You Don't Know JS: *this* & Object Prototypes
 
-<img src="cover.jpg" width="300">
+<img src="cover.jpg" width="300" />
 
 -----
 
